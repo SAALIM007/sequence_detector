@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Chandra Mouli/Desktop/verilog assign/detector_isim_beh.exe" -prj "C:/Users/Chandra Mouli/Desktop/verilog assign/detector_beh.prj" "work.detector" "work.glbl" 
